@@ -18,6 +18,7 @@ Current conditions for consideration :
 
 | Year  | Total | in Title | in Abstract | 
 | ----- | ----- | -------- | ----------- |
+| 2014 | 835 | 10 | 22 |
 | 2013 | 725 | 3 | 18 |
 | 2012 | 688 | 2 | 19 |
 | 2011 | 692 | 4 | 22 |
