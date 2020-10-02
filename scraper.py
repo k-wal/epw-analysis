@@ -199,8 +199,8 @@ def get_year_issues(url,year):
 		get_issue_urls('https://www.jstor.org'+link['href'],year)
 
 
-url = 'https://www.jstor.org/journal/econpoliweek'
-get_year_issues(url, 2014)
+url = 'https://www.jstor.org/journal/econpoliweek?decade=2000'
+get_year_issues(url, 2004)
 
 # url = 'https://www.jstor.org/stable/i40033610'
 # get_issue_urls(url,str(2010))
