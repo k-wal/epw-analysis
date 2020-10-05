@@ -78,9 +78,13 @@ def parse_single(path, output_path):
 	# final date
 	date = beg_date + '-'  + end_date
 
+	if not os.path.isdir(output_path + '/' + year):
+		os.mkdir(output_path + '/' + year)
+
+
 	# checking to see if article has already been added
-	if check_if_done(article_number,year,output_path):
-		return
+	# if check_if_done(article_number,year,output_path):
+	# 	return
 
 	# getting subject
 	try:
@@ -134,4 +138,4 @@ def parse_all(path,output_path):
 		parse_single(path+'/'+filename, output_path)
 		print(i)
 		i += 1
-parse_all('../dataset/dataset1/metadata','../dataset/final')
+parse_all('../dataset/corpus','../dataset/final')
