@@ -1,4 +1,8 @@
 import os
+import matplotlib.pyplot as plt
+
+abstract_counts = []
+title_counts = []
 
 def write_year_counts(year, dir_path, output_file):
 	file = open(dir_path + '/' + year + '/all.txt','r')
@@ -22,6 +26,9 @@ def write_year_counts(year, dir_path, output_file):
 	except:
 		in_abstract = 0
 
+	abstract_counts.append(in_abstract)
+	title_counts.append(in_title)
+
 	to_write = [year, str(total), str(in_title), str(in_abstract)]
 	to_write = '| ' + ' | '.join(to_write) + ' |\n'
 	output_file.write(to_write)
@@ -36,3 +43,8 @@ years.sort()
 for year in years:
 	write_year_counts(year, dir_path, output_file)
 output_file.close()
+
+
+# plt.plot(list(range(int(years[0]), int(years[-1])+1)), abstract_counts)
+# plt.plot(list(range(int(years[0]), int(years[-1])+1)), title_counts)
+# plt.show()

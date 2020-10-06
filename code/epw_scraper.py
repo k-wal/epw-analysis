@@ -113,7 +113,9 @@ def get_issue_articles(url, output_path):
 
 
 
-def get_year_articles(url, year, output_path):
+def get_year_articles(url, year, start_from, output_path):
+	flag = False
+
 	r = requests.get(url)
 	soup = BeautifulSoup(r.content, 'lxml')
 	tags = soup.findAll('fieldset', class_='collapsible collapsed')
@@ -123,7 +125,18 @@ def get_year_articles(url, year, output_path):
 			links = tag.findAll('a')
 			for link in links:
 				url = 'https://www.epw.in' + link['href']
-				get_issue_articles(url, output_path)
+				if re.split('/',url)[-1] == start_from:
+					flag = True
+				if flag:
+					get_issue_articles(url, output_path)
+
 
 url = 'https://www.epw.in/journal/epw-archive'
-get_year_articles(url, 2015, '../dataset/final')
+
+# start_from = '54'
+# get_year_articles(url, 2019, start_from, '../dataset/final')
+
+start_from = '35'
+get_year_articles(url, 2018, start_from, '../dataset/final')
+
+
