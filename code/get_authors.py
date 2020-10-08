@@ -23,16 +23,20 @@ def get_year_authors(year, dir_path, all_authors):
 def write_all_authors(all_authors, outpath):
 	outfile = open(outpath, 'w')
 	all_authors = sorted(all_authors.items(), key=lambda x: x[1], reverse=True)
+	outfile.write('| # articles | Author |\n')
+	outfile.write('| ---------- | ------ |\n')
 
 	for author in all_authors:
-		to_write = str(author[1]) + ' -- ' + author[0] + '\n'
+		if author[0] == '':
+			continue
+		to_write = '| ' + str(author[1]) + ' | ' + author[0] + ' |\n'
 		outfile.write(to_write)
 	outfile.close()
 
 
 all_authors = {}
 dir_path = '../dataset/final'
-outpath = '../dataset/author_counts.txt'
+outpath = '../dataset/author_counts.md'
 years = os.listdir('../dataset/final')
 years.sort()
 years = years[:-1]
