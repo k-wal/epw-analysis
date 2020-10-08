@@ -7,6 +7,7 @@
 2/10/2010-8/10/2010||insight||25742144||Silicon Valley's Integrated Water System||T N NARASIMHAN
 27/3/2010-2/4/2010||commentary||25664268||Pakistan's Questionable Move on Water||RAMASWAMY R IYER
 23/1/2010-29/1/2010||perspectives||25664043||The End of 'Cheap Ecology' and the Crisis of 'Long Keynesianism'||FARSHAD ARAGHI
+2/10/2010-8/10/2010||commentary||25742138||Equity and Social Justice in a Finite Carbon World||NAGRAJ ADVE,MEHER ENGINEER
 22/5/2010-28/5/2010||special article||27807052||Rural Accessibility and Development: Sustainability Concerns in an Ecologically Fragile Mountain Belt||RINKI SARKAR
 27/2/2010-5/3/2010||commentary||25664161||The Strange Valuation of Forests in India||SMRITI DAS
 10/7/2010-16/7/2010||special article||40736732||Can a Tiger Change Its Stripes? The Politics of Conservation as Translated in Mudumalai||DANIEL TAGHIOFF,AJIT MENON
@@ -23,6 +24,7 @@
 23/1/2010-29/1/2010||special articles||25664046||Rural Drinking Water Reforms in Maharashtra: The Role of Neoliberalism||PRIYA SANGAMESWARAN
 26/6/2010-9/7/2010||review of agriculture||40736699||Climate Change and Water Supplies: Options for Sustaining Tank Irrigation Potential in India||K PALANISAMI,RUTH MEINZEN-DICK,MARK GIORDANO
 24/7/2010-30/7/2010||commentary||20764332||A Framework for India's Water Policy||T N NARASIMHAN,V K GAUR
+24/7/2010-30/7/2010||commentary||20764330||Radiation Incident in Mayapuri: Disquieting Signals to Labour||BABU P REMESH,C P VINOD
 24/7/2010-30/7/2010||notes||20764340||Water Management for Irrigation in Kerala||M LATHIKA
 16/1/2010-22/1/2010||commentary||25664012||Trade, Technology Transfer and Climate Change||PURNAMITA DASGUPTA,NISHA TANEJA
 24/7/2010-30/7/2010||special article||20764339||Implementation of the Forest Rights Act in the Western Ghats Region of Kerala||JYOTHIS SATHYAPALAN

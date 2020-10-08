@@ -1,5 +1,7 @@
 1/8/2009-7/8/2009||climate change negotiations||25663394||Climate Change and the Energy Challenge: A Pragmatic Approach for India||VARUN RAI,DAVID G VICTOR
 24/1/2009-30/1/2009||notes||40278835||Flood Disasters and Forest Villagers in Sub-Himalayan Bengal||Bidhan Kanti Das
+10/10/2009-23/10/2009||special articles||25663678||How Much 'Carbon Space' Do We Have? Physical Constraints on India's Climate Policy and Its Implications||TEJAL KANITKAR,T JAYARAMAN,MARIO D'SOUZA,PRABIR PURKAYASTHA,D RAGHUNANDAN,RAJBANS TALWAR
+16/5/2009-22/5/2009||commentary||40279005||National Biodiversity Action Plan||Ashish Kothari,Kanchi Kohli
 24/1/2009-30/1/2009||commentary||40278826||Joint Forest Management: Critical Issues||Debnarayan Sarker
 21/11/2009-27/11/2009||commentary||25663807||Displacement and Resettlement Management in Thailand||SATYA PRAKASH DASH
 1/8/2009-7/8/2009||climate change negotiations||25663391||Climate Change: Challenges Facing India's Poor||E SOMANATHAN,ROHINI SOMANATHAN
@@ -8,6 +10,7 @@
 12/9/2009-18/9/2009||commentary||25663535||Malfunctioning of Forest Institutions in Orissa||KAILAS SARAP,TAPAS KUMAR SARANGI
 12/9/2009-18/9/2009||notes||25663545||Ganga at Varanasi: Lessons from Environmental Abuse||VENKATESH UPADHYAY
 1/8/2009-7/8/2009||climate change negotiations||25663390||India and Climate Change: Some International Dimensions||ARVIND SUBRAMANIAN,NANCY BIRDSALL,AADITYA MATTOO
+1/8/2009-7/8/2009||climate change negotiations||25663393||India and a Carbon Deal||VIJAY JOSHI,URJIT R PATEL
 23/5/2009-29/5/2009||notes||40279037||Traditional Knowledge and Conservation||C. Madegowda
 3/1/2009-9/1/2009||notes||40278363||Can Decentralisation Improve Rural Water Supply Services?||Indranil De
 1/8/2009-7/8/2009||climate change negotiations||25663389||Climate Change: India's Options||DEVESH KAPUR,RADHIKA KHOSLA,PRATAP BHANU MEHTA
@@ -20,4 +23,5 @@
 18/4/2009-24/4/2009||notes||40279163||Assessing Vulnerability to Climate Change in India||Architesh Panda
 2/5/2009-8/5/2009||special articles||40278967||Evolving an Effective Management Information System to Monitor Co-Management of Forests||Milindo Chakrabarti,Samar K. Datta
 7/3/2009-13/3/2009||discussion||40278788||Impact of Water Harvesting and Recharge: A Rejoinder||M. Dinesh Kumar
+24/1/2009-30/1/2009||------||40278819||Corrigendum: Prospects of Solar Power in India under Global Warming||
 7/2/2009-13/2/2009||commentary||40278472||Groundwater: Towards an Aquifer Management Framework||Himanshu Kulkarni,P. S. Vijay Shankar

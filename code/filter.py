@@ -6,18 +6,43 @@ def check_presence(text):
 	keywords = ['environmental', 
 	'ecology', 
 	'ecological', 
-	'environment-friendly', 
-	'climate change', 
+	'environment-friendly',
 	'wildlife', 
 	'forest', 
 	'water', 
 	'pollution',
 	'conservation',
-	'mineral extraction']
+	'smog',
+	'biodiversity',
+	'emission',
+	'renewable',
+	'global warming',
+	'biosphere',
+	'greenhouse',
+	'radiation',
+	'fossil fuel',
+	' ozone',
+	'carbon',
+	'pollutant',
+	'pollute',
+	'contaminated',
+	'toxin',
+	'weather events',
+	'natural resources']
+
 
 	for word in keywords:
 		if word in text:
 			return True
+
+	if 'climate' in text and 'change' in text:
+		return True
+
+	if 'mineral' in text and 'extraction' in text:
+		return True
+
+	if 'toxic' in text and 'air' in text:
+		return True
 
 	if 'environment' in text:
 		if 'nature' in text or 'natural' in text or 'earth' in text:
