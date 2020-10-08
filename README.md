@@ -53,6 +53,19 @@ Current conditions for consideration :
 	+ dam
 	+ land
 
+## Some Graphs:
+- [This](../graphs/all.png) graph plots total number of articles.
+- [This](../graphs/climate change.png) graph plots the occurance of 'climate change'.
+- [This](../graphs/environmental.png) graph plots the occurance of 'environmental'.
+- [This](../graphs/water.png) graph plots the occurance of 'water'.
+- [This](../graphs/forest.png) graph plots the occurance of 'forest'.
+- [This](../graphs/ecology-ecological.png) graph plots the occurance of words 'ecology' and 'ecological'.
+- [This](../graphs/forest-wildlife-biodiversity-biosphere.png) graph plots the occurance of words related to forest(forest, wildlife, biodiversity, biosphere)
+- [This](../graphs/conservation-natural resources-fossil fuel-scarcity-crisis-renewable-sustainable.png) graph plots how terms related to resources and scarcity of resources occur(conservation, natural resources, fossil fuel, scarcity, crisis, renewable, sustainable)
+- [This](../graphs/agriculture-agricultural-agrarian-crops-irrigat-farm-cropping.png) graph plots how terms related to agriculture(agriculture, agricultural, agrarian, crops, cropping, irrigation, irrigating, irrigates, farm) occur.
+- [This](../graphs/pollution-pollute-pollutant-contamination-smog-carbon-chemical-toxic-toxin-greenhouse-carbon-fossil fuel-emission-contaminant.png) graph plots how terms related to pollution(pollution, pollute, pollutant, contamination, smog, carbon, chemical, toxic, toxin, greenhouse, carbon, fossil fuel, emission, contaminant) occur.
+
+
 ## Corpus
 
 | Year  | Total | in Title | in Abstract | 

@@ -45,7 +45,7 @@ def get_year_counts(year, dir_path, keywords):
 
 dir_path = '../dataset/final'
 years = os.listdir('../dataset/final')
-keywords = ['displacement']
+keywords = ['agriculture', 'agricultural','agrarian', 'crops', 'irrigat', 'farm', 'cropping']
 draw = 0
 
 years.sort()
