@@ -1,5 +1,12 @@
 # Analysis of articles in EPW
 
+## File Structure
+- Corpus(processed) in dataset/final, sorted by year.
+	- all.txt contains all articles of that year
+	- in_title.txt contains all articles of that year where title satisfies conditions
+	- in_abstract.txt contains all articles of that year where abstract satisfies conditions
+- dataset/authors_counts.md contains a table of total articles by an author where abstract satidfies conditions, and author's name.
+- dataset/counts.txt contains table to put under 'Corpus' subheading in README.txt
 
 ## Conditions
 
@@ -9,10 +16,24 @@ Current conditions for consideration :
 	+ ecology
 	+ ecological
 	+ environment-friendly
+	+ climate change
+	+ wildlife
+	+ forest
+	+ water
+	+ pollution
+	+ conservation
+	+ mineral extraction
 - Presence of the word 'environment' in the presence of one of the following words
 	+ nature
 	+ natural
 	+ earth
+- Presence of the word 'displacement' in the presence of one of the following words
+	+ industry
+	+ industrial
+	+ mining
+	+ dams
+	+ dam
+	+ land
 
 ## Corpus
 

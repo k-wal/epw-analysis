@@ -1,7 +1,7 @@
 import os
 import re
 
-
+# return all_authors with counts added for authors of 'year'
 def get_year_authors(year, dir_path, all_authors):
 	file = open(dir_path + '/' + year + '/in_abstract.txt', 'r')
 	lines = file.readlines()
@@ -19,7 +19,7 @@ def get_year_authors(year, dir_path, all_authors):
 				all_authors[author] = 1
 	return all_authors
 
-
+# write authors int file of 'outpath' in md table format
 def write_all_authors(all_authors, outpath):
 	outfile = open(outpath, 'w')
 	all_authors = sorted(all_authors.items(), key=lambda x: x[1], reverse=True)
@@ -41,8 +41,10 @@ years = os.listdir('../dataset/final')
 years.sort()
 years = years[:-1]
 
+# get authors for all years in all_authors
 for year in years:
 	all_authors = get_year_authors(year, dir_path, all_authors)
 
+# write authors and counts in file
 write_all_authors(all_authors, outpath)
 
