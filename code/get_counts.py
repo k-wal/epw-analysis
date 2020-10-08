@@ -44,7 +44,9 @@ for year in years:
 	write_year_counts(year, dir_path, output_file)
 output_file.close()
 
+print(sum(abstract_counts))
+print(sum(title_counts))
 
-# plt.plot(list(range(int(years[0]), int(years[-1])+1)), abstract_counts)
-# plt.plot(list(range(int(years[0]), int(years[-1])+1)), title_counts)
-# plt.show()
+plt.plot(list(range(int(years[0]), int(years[-1])+1)), abstract_counts)
+plt.plot(list(range(int(years[0]), int(years[-1])+1)), title_counts)
+plt.show()
