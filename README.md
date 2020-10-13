@@ -68,13 +68,13 @@ Current conditions for consideration :
 - [This](graphs/pollution-pollute-pollutant-contamination-smog-carbon-chemical-toxic-toxin-greenhouse-carbon-fossil%20fuel-emission-contaminant.png) graph plots how terms related to pollution(pollution, pollute, pollutant, contamination, smog, carbon, chemical, toxic, toxin, greenhouse, carbon, fossil fuel, emission, contaminant) occur.
 
 ### Pair Graphs
-- [This](graph/forest&&water.png) plots occurance of 'forest' and 'water'
+- [This](graphs/forest&&water.png) plots occurance of 'forest' and 'water'
 - [This](graphs/agriculture-agricultural-agrarian-crops-irrigat-farm-cropping&&conservation-natural%20resources-fossil%20fuel-scarcity-crisis-renewable-sustainable.png) graph plots words related to agriculture and words related to resource scarcity.
-- [This](graph/agriculture-agricultural-agrarian-crops-irrigat-farm-cropping&&forest-wildlife-biodiversity-biosphere.png) graph plots terms related to agriculture and terms related to forest
-- [This](graph/agriculture-agricultural-agrarian-crops-irrigat-farm-cropping&&pollution-pollute-pollutant-contamination-smog-carbon-chemical-toxic-toxin-greenhouse-carbon-fossil%20fuel-emission-contaminant.png) plots words related to agriculture and terms related to pollution.
-- [This](graph/conservation-natural%20resources-fossil%20fuel-scarcity-crisis-renewable-sustainable&&forest-wildlife-biodiversity-biosphere.png) graph plots terms related to resources and terms related to forest.
-- [This](graph/pollution-pollute-pollutant-contamination-smog-carbon-chemical-toxic-toxin-greenhouse-carbon-fossil%20fuel-emission-contaminant&&conservation-natural%20resources-fossil%20fuel-scarcity-crisis-renewable-sustainable.png) graph plots terms related to pollution and terms related to resources.
-- [This](graph/pollution-pollute-pollutant-contamination-smog-carbon-chemical-toxic-toxin-greenhouse-carbon-fossil%20fuel-emission-contaminant&&forest-wildlife-biodiversity-biosphere.png) plots terms related to pollution and terms related to forest.
+- [This](graphs/agriculture-agricultural-agrarian-crops-irrigat-farm-cropping&&forest-wildlife-biodiversity-biosphere.png) graph plots terms related to agriculture and terms related to forest
+- [This](graphs/agriculture-agricultural-agrarian-crops-irrigat-farm-cropping&&pollution-pollute-pollutant-contamination-smog-carbon-chemical-toxic-toxin-greenhouse-carbon-fossil%20fuel-emission-contaminant.png) plots words related to agriculture and terms related to pollution.
+- [This](graphs/conservation-natural%20resources-fossil%20fuel-scarcity-crisis-renewable-sustainable&&forest-wildlife-biodiversity-biosphere.png) graph plots terms related to resources and terms related to forest.
+- [This](graphs/pollution-pollute-pollutant-contamination-smog-carbon-chemical-toxic-toxin-greenhouse-carbon-fossil%20fuel-emission-contaminant&&conservation-natural%20resources-fossil%20fuel-scarcity-crisis-renewable-sustainable.png) graph plots terms related to pollution and terms related to resources.
+- [This](graphs/pollution-pollute-pollutant-contamination-smog-carbon-chemical-toxic-toxin-greenhouse-carbon-fossil%20fuel-emission-contaminant&&forest-wildlife-biodiversity-biosphere.png) plots terms related to pollution and terms related to forest.
 
 
 ## Corpus
