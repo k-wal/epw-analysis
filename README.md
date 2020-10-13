@@ -5,7 +5,7 @@
 	- all.txt contains all articles of that year
 	- in_title.txt contains all articles of that year where title satisfies conditions
 	- in_abstract.txt contains all articles of that year where abstract satisfies conditions
-- [dataset/authors_counts.md](dataset/author_counts.md) contains a table of total articles by an author where abstract satidfies conditions, and author's name.
+- [dataset/authors_counts.md](dataset/author_counts.md) contains a table of total articles by an author where abstract satisfies conditions, years active for that author, and author's name.
 - [dataset/counts.txt](dataset/counts.txt) contains table to put under 'Corpus' subheading in README.txt
 
 ## Conditions

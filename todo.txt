@@ -1,3 +1,5 @@
 [DONE] write code to filter articles on new keywords
 [DONE] write code to get list of authors + number of articles written by each author (that satisfy the)
-- different keywords, graphs
+[DONE] different keywords, graphs
+- pair of keywords, graphs
+[DONE] years active for authors
