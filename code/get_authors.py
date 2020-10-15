@@ -25,16 +25,17 @@ def get_year_authors(year, dir_path, all_authors, author_years):
 def write_all_authors(all_authors, author_years, outpath):
 	outfile = open(outpath, 'w')
 	all_authors = sorted(all_authors.items(), key=lambda x: x[1], reverse=True)
-	outfile.write('| # articles | Years Active | Author |\n')
-	outfile.write('| ---------- | ------------ | ------ |\n')
+	# outfile.write('| # articles | Years Active | Author | Academia URL | Alternate URL | \n')
+	# outfile.write('| ---------- | ------------ | ------ | ------------ | ------------- |\n')
+	outfile.write('# articles,Years Active,Author,Academia URL,Alternate URL\n')
 
 	for author in all_authors:
 		if author[0] == '':
 			continue
 		years_active = author_years[author[0]]
 		year_span = min(years_active) + '-' + max(years_active)
-
-		to_write = '| ' + str(author[1]) + ' | ' + year_span + ' | ' + author[0] + ' |\n'
+		to_write = str(author[1]) + ',' + year_span + ',' + author[0] + '\n'
+		# to_write = '| ' + str(author[1]) + ' | ' + year_span + ' | ' + author[0] + ' | | |\n'
 		outfile.write(to_write)
 	outfile.close()
 
@@ -42,7 +43,7 @@ def write_all_authors(all_authors, author_years, outpath):
 all_authors = {}
 author_years = {}
 dir_path = '../dataset/final'
-outpath = '../dataset/author_counts.md'
+outpath = '../dataset/just_author_counts.csv'
 years = os.listdir('../dataset/final')
 years.sort()
 years = years[:-1]
