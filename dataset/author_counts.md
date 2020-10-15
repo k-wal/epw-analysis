@@ -1,6 +1,6 @@
 | # articles | Years Active | Author |
 | ---------- | ------------ | ------ |
-| 24 | 1988-2019 | TUSHAAR SHAH |
+| 24 | 1988-2019 | TUSHAAR SHAH |Rough
 | 21 | 1989-2014 | RAMASWAMY R IYER |
 | 19 | 1975-2000 | B D DHAWAN |
 | 19 | 1984-2015 | ASHISH KOTHARI |
