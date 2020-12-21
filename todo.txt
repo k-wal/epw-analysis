@@ -1,5 +1,7 @@
-[DONE] write code to filter articles on new keywords
-[DONE] write code to get list of authors + number of articles written by each author (that satisfy the)
-[DONE] different keywords, graphs
-[DONE] pair of keywords, graphs
-[DONE] years active for authors
+making a table of correlations
+plotting graphs according to themes
+
+ANNOTATION:
+- fill up all empty columns in G column : 2/3 fields
+- handle the yellow marks : they havent articles about the environment in epw(remove articles in this case), authors that have weird names(like AM/SUNIL)
+- everythign in column G has maximum 3 keywords

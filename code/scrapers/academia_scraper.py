@@ -17,14 +17,11 @@ def get_profile_disciplines(url):
 		except:
 			scripts.append(s)
 		
-	# print(scripts)
-
 	interests = []
 	for s in scripts:
 		script = str(s)
 		script = re.sub('<script>','',script)
 		script = re.sub('</script>','',script)
-		# print(script)
 		if 'first_name' not in script or 'viewedUser' not in script or 'page_name' not in script:
 			continue
 		script = script.split('\n')[0][35:-2]
@@ -37,4 +34,5 @@ def get_profile_disciplines(url):
 url = 'https://iiit.academia.edu/RadhikaKrishnan'
 url = 'https://independent.academia.edu/ShaliniBhutani'
 url = 'https://iiit.academia.edu/AlokDebnath'
+url = 'https://independent.academia.edu/AshishKothari'
 get_profile_disciplines(url)
