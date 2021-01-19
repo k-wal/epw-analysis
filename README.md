@@ -77,6 +77,10 @@ Current conditions for consideration :
 - [This](graphs/pollution-pollute-pollutant-contamination-smog-carbon-chemical-toxic-toxin-greenhouse-carbon-fossil%20fuel-emission-contaminant&&forest-wildlife-biodiversity-biosphere.png) plots terms related to pollution and terms related to forest.
 
 
+## Code
+- [This](code/get_authors_articles.py) gets all articles(title+abstract for each) of an author, printed by year. To run, "python get_author_articles 'author-name'".
+
+
 ## Corpus
 
 | Year  | Total | in Title | in Abstract | 
