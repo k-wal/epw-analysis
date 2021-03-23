@@ -23,6 +23,9 @@ def get_category_counts(lines):
 
 
 def write_categories_md(categories, counts, outfile):
+	to_write =  "| # occurences | category |\n"
+	to_write += "| ------------ | -------- |\n"
+	outfile.write(to_write)
 	for c in categories:
 		to_write = "| " + str(counts[c]) + " | " + c + " |\n"
 		outfile.write(to_write)

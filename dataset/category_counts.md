@@ -1,3 +1,5 @@
+| # occurences | category |
+| ------------ | -------- |
 | 255 | water management |
 | 233 | economics |
 | 175 | development studies |
