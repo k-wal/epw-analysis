@@ -1,0 +1,440 @@
+| 255 | water management |
+| 233 | economics |
+| 175 | development studies |
+| 136 |  |
+| 108 | agriculture |
+| 97 | climate change |
+| 95 | forest management |
+| 77 | rural development |
+| 71 | sociology |
+| 63 | politics |
+| 60 | energy policy |
+| 57 | agricultural economics |
+| 52 | urban studies |
+| 50 | tribal studies |
+| 45 | public health |
+| 42 | history |
+| 41 | gender |
+| 36 | public policy |
+| 33 | air pollution |
+| 32 | wildlife conservation |
+| 32 | law |
+| 30 | international relations |
+| 29 | biodiversity |
+| 25 | social movements |
+| 25 | dams |
+| 20 | development economics |
+| 18 | mining |
+| 18 | political science |
+| 16 | globalisation |
+| 16 | conservation |
+| 15 | fisheries |
+| 15 | political economy |
+| 14 | waste management |
+| 14 | sustainable development |
+| 11 | water pollution |
+| 11 | transport |
+| 11 | pollution |
+| 11 | water |
+| 10 | ecological economics |
+| 9 | political ecology |
+| 9 | urban planning |
+| 8 | industrialisation |
+| 7 | coastal management |
+| 7 | economic sociology |
+| 7 | human rights |
+| 7 | india |
+| 6 | cultural studies |
+| 6 | public transport |
+| 6 | trade |
+| 6 | gender studies |
+| 6 | development |
+| 6 | energy |
+| 6 | geography |
+| 6 | ecology |
+| 6 | labour |
+| 6 | water policy |
+| 5 | energy management |
+| 5 | biotechnology |
+| 5 | economic history |
+| 5 | environmental sustainability |
+| 5 | forest rights |
+| 5 | environmental studies |
+| 5 | environmental economics |
+| 4 | coastal areas |
+| 4 | development sociology |
+| 4 | gandhian studies |
+| 4 | development policy |
+| 4 | anthropology |
+| 4 | environment |
+| 4 | renewable energy |
+| 4 | global warming |
+| 3 | energy studies |
+| 3 | labour studies |
+| 3 | forests |
+| 3 | environmental policy |
+| 3 | population studies |
+| 3 | land use |
+| 3 | agricultural policy |
+| 3 | irrigation |
+| 3 | political theory |
+| 3 | philosophy |
+| 3 | food security |
+| 3 | conservation biology |
+| 3 | human geography |
+| 3 | environmental law |
+| 3 | globalization |
+| 3 | education |
+| 3 | health economics |
+| 2 | social policy |
+| 2 | disaster mitigation |
+| 2 | alternative technologies |
+| 2 | alternative development |
+| 2 | social movements politics |
+| 2 | science |
+| 2 | health |
+| 2 | agricultural science |
+| 2 | agrigultural policy |
+| 2 | urban development |
+| 2 | environmental justice |
+| 2 | international economics |
+| 2 | psychology |
+| 2 | geopolitics |
+| 2 | tourism |
+| 2 | rural management |
+| 2 | planning |
+| 2 | environmental and natural resource economics |
+| 2 | decentralized governance |
+| 2 | business |
+| 2 | political philosophy |
+| 2 | postcolonial studies |
+| 2 | social science |
+| 2 | international studies |
+| 2 | sustainable agriculture |
+| 2 | governance |
+| 2 | international environmental law |
+| 2 | rural studies |
+| 2 | multidisciplinary |
+| 2 | developmental economics |
+| 2 | environmental politics |
+| 2 | climate change adaptation |
+| 2 | civil liberties |
+| 2 | islamic studies |
+| 2 | nuclear energy |
+| 2 | rural economy |
+| 2 | low carbon growth strategies |
+| 2 | international environmental politics |
+| 2 | computer networks |
+| 2 | environmental history |
+| 2 | environmental science |
+| 2 | indian studies |
+| 2 | history of economic thought |
+| 2 | urban health |
+| 1 | water governance |
+| 1 | manifestos |
+| 1 | political party |
+| 1 | urban ecology |
+| 1 | commons |
+| 1 | land cover change |
+| 1 | rural sociology |
+| 1 | urban sociology |
+| 1 | sustainable developments |
+| 1 | agrarian change |
+| 1 | natural resource management |
+| 1 | malnutrition |
+| 1 | deprivation |
+| 1 | ecnomics |
+| 1 | central asian studies |
+| 1 | illiberal democracy |
+| 1 | ecocide law |
+| 1 | economics. energy policy |
+| 1 | management |
+| 1 | forest  |
+| 1 | international politics |
+| 1 | social theory |
+| 1 | media |
+| 1 | agticulture |
+| 1 | forest manangement |
+| 1 | developent studies |
+| 1 | biodoversity |
+| 1 | literature |
+| 1 | labour economics |
+| 1 | food |
+| 1 | industrial pollution |
+| 1 | water manangement |
+| 1 | urbanisation |
+| 1 | developmment studies |
+| 1 | behavioral science |
+| 1 | appropriate technologies |
+| 1 | and hydrology. |
+| 1 | geology |
+| 1 |  economics |
+| 1 | coal mining |
+| 1 | organisational behavior |
+| 1 | clinical psychology |
+| 1 | theology |
+| 1 | trade unions |
+| 1 | industrial sociology |
+| 1 | sociology of development |
+| 1 | livelihoods and sustainability |
+| 1 | land acquisition and governance |
+| 1 | nuclear energy law |
+| 1 | green marketing |
+| 1 | health care financing |
+| 1 | health policy |
+| 1 | epidemiology |
+| 1 | poverty |
+| 1 | data analysis |
+| 1 | urban poverty |
+| 1 | decision making for sustainable technologies |
+| 1 | land acquisition |
+| 1 | development induced displacement |
+| 1 | vulnerability profiling |
+| 1 | adaptation |
+| 1 | right to information |
+| 1 | social work |
+| 1 | environment and development |
+| 1 | global justice |
+| 1 | peace |
+| 1 | devemopment studies |
+| 1 | electricity regulation |
+| 1 | energy access |
+| 1 | energy systems |
+| 1 | social anthropology |
+| 1 | mangroves |
+| 1 | earth sciences |
+| 1 | environmentalism |
+| 1 | electron microscopy |
+| 1 | histochemistry |
+| 1 | immunobiology |
+| 1 | local governance and planning |
+| 1 | poverty and inequality |
+| 1 | narratology |
+| 1 | rural and regional development |
+| 1 | international trade |
+| 1 | mining and energy |
+| 1 | ecological conflicts |
+| 1 | regional development |
+| 1 | urban design |
+| 1 | architecture and urbanism |
+| 1 | shavadan earth sheltered houses |
+| 1 | human-animal studies. political ecology |
+| 1 | traditional knowledge |
+| 1 | sustainability. waste management |
+| 1 | develoment studies |
+| 1 | agrarian studies |
+| 1 | organizational theory |
+| 1 | public management |
+| 1 | philosophy of social science |
+| 1 | sociology of education |
+| 1 | fire ecology |
+| 1 | glacial geology |
+| 1 | indian ocean |
+| 1 | inequality |
+| 1 | economic development |
+| 1 | international affairs |
+| 1 | science and technology |
+| 1 | entrepreneurship |
+| 1 | interaction rituals |
+| 1 | social order |
+| 1 | energy economics |
+| 1 | and urban conservation |
+| 1 | urbanism |
+| 1 | religion |
+| 1 | leadership |
+| 1 | history of development |
+| 1 | ecosystem studies |
+| 1 | livelihoods |
+| 1 | science and technology policy |
+| 1 | marine resource management |
+| 1 | central asia |
+| 1 | sustainability studies |
+| 1 | urban management |
+| 1 | political ecology (anthropology) |
+| 1 | biodiversity management |
+| 1 | agricultural technology |
+| 1 | intellectual property rights |
+| 1 | foreign direct investment ( fdi ) |
+| 1 | intellectual property law |
+| 1 | farmers' movements |
+| 1 | ecosystems management |
+| 1 | feminist studies |
+| 1 | education and social change |
+| 1 | appropriate technology |
+| 1 | poitical theory |
+| 1 | deficits |
+| 1 | public expenditures |
+| 1 | risk management |
+| 1 | finance |
+| 1 | tiger conservation |
+| 1 | climate change and environment economics |
+| 1 | cultural sociology |
+| 1 | sewaga treatment |
+| 1 | civil engineering |
+| 1 | water resources (engineering) |
+| 1 | developmental studies |
+| 1 | decentralization |
+| 1 | power policy |
+| 1 | sustainable urbanism |
+| 1 | corporate sustainability |
+| 1 | social aspects of sustainability |
+| 1 | wildlife |
+| 1 | humanities and social sciences |
+| 1 | history of assam |
+| 1 | people's movements |
+| 1 | forest rights acts |
+| 1 |  class and inequality |
+| 1 |  and feminist theory |
+| 1 | feminism |
+| 1 | gandhian thought |
+| 1 | ambedkar |
+| 1 | peace and conflict |
+| 1 | fossil fuels |
+| 1 | watershed climate change |
+| 1 | urban transitions |
+| 1 | water systems |
+| 1 | rural evaluation studies |
+| 1 | irrigation economics |
+| 1 | delhi |
+| 1 | degrowth |
+| 1 | waste |
+| 1 | resource policy |
+| 1 | environment policy |
+| 1 | trade policy |
+| 1 | climate policy |
+| 1 | economic policy |
+| 1 | solar cell |
+| 1 | medicinal herbs |
+| 1 | marxism |
+| 1 | cooperatives |
+| 1 | state |
+| 1 | welfare economics |
+| 1 | economic theory |
+| 1 | behavioral economics |
+| 1 | agricultural industry |
+| 1 | rural agriculture |
+| 1 | water resource management |
+| 1 | social security law |
+| 1 | contract labour and legal protection |
+| 1 | southasian studies |
+| 1 | social and cultural anthropology |
+| 1 | fisheries governance |
+| 1 | small scale fisheries |
+| 1 | area studies |
+| 1 |  adivasis. |
+| 1 | space and place |
+| 1 | forced migration |
+| 1 | human security |
+| 1 | ethnicity |
+| 1 | economic analyst |
+| 1 | demography |
+| 1 | higher education |
+| 1 | economic growth |
+| 1 | anthropocene studies |
+| 1 | environmental humanities |
+| 1 | labour market dynamics |
+| 1 | young adulthood |
+| 1 | quality of working life |
+| 1 | environmental impact assessment |
+| 1 | production and resource economics |
+| 1 | agriculture economics |
+| 1 | popularization of science |
+| 1 | international relations & politics |
+| 1 | water logging |
+| 1 | salinity |
+| 1 | developmental economy |
+| 1 | environmental economy |
+| 1 | non-communicable diseases |
+| 1 | health policy analysis |
+| 1 | social determinants of health |
+| 1 | rural class relations |
+| 1 | water conservation |
+| 1 | fishing |
+| 1 | women's studies |
+| 1 | new media |
+| 1 | nuclear weapons |
+| 1 | gita govinda |
+| 1 | pahari paintings |
+| 1 | indian art |
+| 1 | food technology |
+| 1 | public administration |
+| 1 | institutional economics |
+| 1 | climate conservation |
+| 1 | tribal livelihood |
+| 1 | environmental protection |
+| 1 | paris agreement 2015 |
+| 1 | energy and environment |
+| 1 | anthropology of religion |
+| 1 | environmental governance |
+| 1 | ecosystem services |
+| 1 | landscape ecology |
+| 1 | animal behavior |
+| 1 | energy efficiency |
+| 1 | agrarian institutions |
+| 1 | political sociology |
+| 1 | neurofibromatosis |
+| 1 | medicine |
+| 1 | energy analysis |
+| 1 | rural technology |
+| 1 | regional disparities |
+| 1 | wildlife biology |
+| 1 | environmental policy and governance |
+| 1 | community ecology |
+| 1 | international climate change law |
+| 1 | journalism |
+| 1 | media studies |
+| 1 | sustainability |
+| 1 | research methodology |
+| 1 | water laws |
+| 1 | indian ethos and management |
+| 1 | consciousness studies |
+| 1 | hrm & ob |
+| 1 | urban environment |
+| 1 | urban transportation |
+| 1 | pathogen interaction |
+| 1 | high yielding wheat |
+| 1 | regional integration and international trade |
+| 1 | biomass |
+| 1 | climate change economics |
+| 1 | resource planning |
+| 1 | indrustrial engineering |
+| 1 | world bank |
+| 1 | birds |
+| 1 | protected areas |
+| 1 | international climate policy |
+| 1 |  especially water resource management |
+| 1 | participative ecosystem |
+| 1 | water resources modelling under limited data availability |
+| 1 | social movements (political science) |
+| 1 | value chain analysis |
+| 1 | groundwater contamination |
+| 1 | radiobiology of ionizing radiation |
+| 1 | environmental geology |
+| 1 | migration |
+| 1 | migration studies |
+| 1 | energy planning |
+| 1 | advanced nuclear energy systems |
+| 1 | economics of regulation |
+| 1 | forestry |
+| 1 | indigenour people |
+| 1 | ddos defense |
+| 1 | information and communications technology |
+| 1 | global environmental governance |
+| 1 | geography and other environmental studies |
+| 1 | dialogue |
+| 1 | electrical engineering |
+| 1 | social history |
+| 1 | political history |
+| 1 | environmental movements in india |
+| 1 | eco-hydrology of rivers |
+| 1 | mountain ecosyetems |
+| 1 | social policy & development |
+| 1 | efficient market hypothesis |
+| 1 | south india |
+| 1 | agricultural and resource economics |
+| 1 | alternatives to development |
+| 1 | globalisation and sustainable development |
+| 1 | farm management |
+| 1 | agricultural and food policy |
+| 1 | healthy urban planning |
+| 1 | youth studies |

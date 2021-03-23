@@ -28,11 +28,11 @@ def get_profile_disciplines(url):
 		data = json.loads(script)
 		for interest in data['interests']:
 			interests.append(interest['name'])
-		print(interests)
+		return ','.join(interests)
 
 
-url = 'https://iiit.academia.edu/RadhikaKrishnan'
-url = 'https://independent.academia.edu/ShaliniBhutani'
-url = 'https://iiit.academia.edu/AlokDebnath'
-url = 'https://independent.academia.edu/AshishKothari'
-get_profile_disciplines(url)
+# url = 'https://iiit.academia.edu/RadhikaKrishnan'
+# url = 'https://independent.academia.edu/ShaliniBhutani'
+# url = 'https://iiit.academia.edu/AlokDebnath'
+# url = 'https://independent.academia.edu/AshishKothari'
+# get_profile_disciplines(url)
