@@ -41,6 +41,7 @@ Current conditions for consideration :
 - Presnce of both words at the same time
 	+ climate, change
 	+ mineral, extraction
+	+ toxic, air
 - Presence of the word 'environment' in the presence of one of the following words
 	+ nature
 	+ natural
